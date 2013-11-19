@@ -1,0 +1,12 @@
+name: ServerManagement
+version: 1.0.0
+description: Release of ServerManagement
+author: bartboy8
+main: bartboy8.servermanagementgui.main.Main
+commands:
+  smgui:
+    description: Opens ServerManagement GUI!
+  servergui:
+    description: Opens ServerManagement GUI!
+  servermanagement:
+    description: Opens ServerManagement GUI!
